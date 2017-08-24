@@ -19,6 +19,7 @@ Use the powerful features of AMP to make your Rails app consistently fast, beaut
     * [Example applications](#example-applications)
     * [Contributing](#contributing)
     * [Versioning](#versioning)
+    * [Deprecations](#deprecations)
 * [Concept](#concept)
 * [Features](#features)
 * [Installation](#installation)
@@ -77,6 +78,10 @@ We hope that you will consider contributing to AMP-HTML. Please read this short 
 ### Versioning
 
 AmpHtml follows Semantic Versioning 2.0 as defined at http://semver.org.
+
+### Deprecations
+
+Deprecations are combined with new major releases of AmpHtml. You can see a full list of past and future deprecations [here](https://github.com/slooob/amp-html/blob/master/DEPRECATIONS.md)
 
 ## Concept
 
