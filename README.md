@@ -81,7 +81,7 @@ AmpHtml follows Semantic Versioning 2.0 as defined at http://semver.org.
 
 ### Deprecations
 
-Deprecations are combined with new major releases of AmpHtml. You can see a full list of past and future deprecations [here](https://github.com/slooob/amp-html/blob/master/DEPRECATIONS.md)
+Deprecations are combined with new major releases of AmpHtml. You can see a full list of past and future deprecations [here](https://github.com/slooob/amp-html/blob/master/DEPRECATIONS.md).
 
 ## Concept
 
